@@ -6,7 +6,7 @@ LenSight is an advanced 3-Tier web application designed to detect AI-manipulated
 Multimodal Fusion Analysis:** Evaluates both image anomalies and textual claims simultaneously or independently.
 Live Web Fact-Checking:** Automatically queries the DuckDuckGo API to cross-reference suspicious claims with live internet headlines.
 Visual Analysis Map:** Generates a simulated activation map overlay to visually guide users toward irregular pixel clusters.
-Persistent Data Layer:** Utilizes an integrated SQLite database to securely log and timestamp all analysis reports.
+Persistent Data Layer:** Utilises an integrated SQLite database to securely log and timestamp all analysis reports.
 Researcher Mode Telemetry:** Provides advanced users with raw model JSON outputs and strict file-size security checks.
 
 #Setup and Run Instructions
